@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhamad-bilal?tab=repositories](https://github.com/muhamad-bilal?tab=repositories)
 
-- 📫 How to reach me **mb924225@gmail.com**
+- 📫 How to reach me: **mb924225@gmail.com**
 
-- ⚡ Fun fact **I love thinking about things that will never happen.**
+- ⚡ Fun fact: **I love thinking about things that will never happen.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
