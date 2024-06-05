@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan, slowly moving toward full stack development. Currently studying Data Science at one of the most prestigious institutes in my country.</h3>
 
-- 🔭 I’m currently working on [Reddit Scrapper](https://github.com/muhamad-bilal/redditscrape)
+- 🔭 I’m currently working on [Making a Neural Network using only Numpy](https://github.com/muhamad-bilal/NN-using-python-and-numpy)
 
 - 🌱 I’m currently learning **React, Flask, Data Visualization**
 
