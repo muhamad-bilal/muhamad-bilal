@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan, slowly moving toward full stack development. Currently studying Data Science at one of the most prestigious institutes in my country.</h3>
 
-- 🔭 I’m currently working on [Reddit Sentiment Analysis](https://github.com/muhamad-bilal)
+- 🔭 I’m currently working on [Reddit Sentiment Analysis](https://github.com/muhamad-bilal/RentiAnalyzer)
 
 - 🌱 I’m currently learning **React, Flask, Data Visualization**
 
