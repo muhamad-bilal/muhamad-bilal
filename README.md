@@ -9,12 +9,11 @@
 
 - 📫 How to reach me: **mb924225@gmail.com**
 
-- ⚡ Fun fact: **I love thinking about things that will never happen.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-bilal-8860a52a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad bilal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/muhammad.bilal.961993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad bilal" height="30" width="40" /></a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
