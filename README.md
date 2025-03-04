@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Operation System Educational website](https://github.com/muhamad-bilal/os-for-kids)
 
-- 🌱 I’m currently learning **React, Flask, Data Visualization**
+- 🌱 I’m currently learning **React Native, TypeScript , Data Visualization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhamad-bilal?tab=repositories](https://github.com/muhamad-bilal?tab=repositories)
 
-- 📫 How to reach me: **mb924225@gmail.com**
+- 📫 How to reach me: **muhhammmadbilall@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
