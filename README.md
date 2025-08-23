@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan, slowly moving toward full stack development. Currently studying Data Science at one of the most prestigious institutes in my country.</h3>
 
-- 🔭 I’m currently working on [DAA (Design and analysis of algorithms) Educational website](https://github.com/muhamad-bilal/daa-for-kids)
+- 🔭 I’m currently working on [Internet Complaint Portal for GIK](https://netronixcomplaints.vercel.app)
 
 - 🌱 I’m currently learning **React Native, TypeScript , Data Visualization**
 
