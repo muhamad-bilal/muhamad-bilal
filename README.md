@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A passionate frontend developer from Pakistan, slowly moving toward full stack development. Currently studying Data Science at one of the most prestigious institutes in my country.</h3>
+<h3 align="center">
+A passionate frontend developer from Pakistan, slowly moving toward full stack development/AI. 
+Currently studying Data Science at one of the most prestigious institutes in my country.
+</h3>
 
-- 🔭 I’m currently working on [Internet Complaint Portal for GIK](https://netronixcomplaints.vercel.app)
+<br/>
 
-- 🌱 I’m currently learning **React Native, TypeScript , Data Visualization**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86c835eb-fa5d-4877-af99-570f07853c04" alt="banner" />
+</p>
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/muhamad-bilal?tab=repositories](https://github.com/muhamad-bilal?tab=repositories)
+<p align="center">
+  <a href="https://github.com/muhamad-bilal/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamad-bilal&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img height=200 align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=at9rk28uaooce0h720jumvjl5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" style="vertical-align: middle;">
+  </a>
+</p>
 
-- 📫 How to reach me: **muhhammmadbilall@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muhammad-bilal-8860a52a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad bilal" height="30" width="40" /></a> <br>
-<br>
-<br>
-
-
-
-<a href="https://github.com/muhamad-bilal/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamad-bilal&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Throughout+Heaven+and+Earth;I+alone+am+the+Honored+one." alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B8B8B8&center=true&vCenter=true&width=435&lines=%E5%A4%A9++%E4%B8%8A++%E5%A4%A9++%E4%B8%8B;%E5%94%AF++%E6%88%91++%E7%8B%AC++%E5%B0%8A" alt="Typing SVG" /></a>
+</p>
