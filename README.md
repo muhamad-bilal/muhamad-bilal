@@ -10,9 +10,9 @@ Currently studying Data Science at one of the most prestigious institutes in my 
 </p>
 <br/>
 <p align="center">
-  <a href="https://github.com/muhamad-bilal/convoychat">
+ <!-- <a href="https://github.com/muhamad-bilal/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamad-bilal&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true" />
-  </a> 
+  </a> --> 
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img height=200 align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=at9rk28uaooce0h720jumvjl5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" style="vertical-align: middle;">
   </a>
